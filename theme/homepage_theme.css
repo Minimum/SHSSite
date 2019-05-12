@@ -1,0 +1,96 @@
+.navbar-collapse
+{
+    background-color: #343f49;
+}
+
+.nav > li > a
+{
+    color: #FFF;
+    text-decoration: none;
+}
+
+.nav > li > a:hover
+{
+    color: #343f49;
+}
+
+#itoolbar_bg
+{
+    background-color: #343f49;
+}
+
+.toolbar-out > .container
+{
+    width: 100%;
+    padding: 0;
+}
+
+.mainmenu-out > .container 
+{
+    width: 100%;
+    padding: 0;
+}
+
+.islideshow-out > .container
+{
+    width: 100%;
+    padding: 0;
+}
+
+.header-out > .container
+{
+    width: 100%;
+    padding: 0;
+}
+
+.hp-center-out 
+{
+    display: none;
+}
+
+.hp-left-out
+{
+    display: none;
+}
+
+.bottomcontentarea-out
+{
+    display: none;
+}
+
+#FooterContentArea
+{
+    display: none;
+}
+
+.irailhead
+{
+    background-color: #343f49;
+}
+
+.irailhead > a
+{
+    color: #FFFFFFB3;
+    text-decoration: none;
+}
+
+.irailhead > a:hover
+{
+    color: #FFFFFF;
+}
+
+#icopyright
+{
+    background-color: #343f49;
+}
+
+#copyright-inner > a
+{
+    color: #FFFFFFB3;
+    text-decoration: none;
+}
+
+#copyright-inner > a:hover
+{
+    color: #FFFFFF;
+}

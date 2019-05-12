@@ -1,0 +1,14 @@
+Primary Area
+    Background: #FFF
+    Text: #343F49
+    Alt Text: #5C6872
+    Link Hover: #A8AD00
+
+Secondary Area
+    Background: #343f49
+    Text: #FFF
+    Alt Text: #FFFFFFB3
+
+Hot Button (Text): #FFF
+Hot Button (Background): #C1CE20
+Hot Button Hover (Background): #9AA51A
