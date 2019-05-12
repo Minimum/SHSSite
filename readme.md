@@ -1,0 +1,1 @@
+This repository contains resources for the SHS website.
