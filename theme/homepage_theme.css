@@ -9,7 +9,8 @@
     text-decoration: none;
 }
 
-.nav > li > a:hover
+.nav > li > a:hover,
+.nav > li > a:focus
 {
     color: #3d7840;
 }
@@ -93,4 +94,14 @@
 #copyright-inner > a:hover
 {
     color: #FFFFFF;
+}
+
+#PageBody
+{
+    background-color: #695f7d;
+}
+
+#header
+{
+    background-color: #654892;
 }
