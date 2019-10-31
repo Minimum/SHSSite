@@ -1,6 +1,6 @@
 .navbar-collapse
 {
-    background-color: #343f49;
+    background-color: #3d7840;
 }
 
 .nav > li > a
@@ -11,12 +11,12 @@
 
 .nav > li > a:hover
 {
-    color: #343f49;
+    color: #3d7840;
 }
 
 #itoolbar_bg
 {
-    background-color: #343f49;
+    background-color: #3d7840;
 }
 
 .toolbar-out > .container
@@ -65,7 +65,7 @@
 
 .irailhead
 {
-    background-color: #343f49;
+    background-color: #3d7840;
 }
 
 .irailhead > a
@@ -81,7 +81,7 @@
 
 #icopyright
 {
-    background-color: #343f49;
+    background-color: #3d7840;
 }
 
 #copyright-inner > a
